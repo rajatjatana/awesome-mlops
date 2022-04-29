@@ -2,9 +2,25 @@
 This project will contain great materials to improvise the ML practices. 
 
 ## Topics: 
-**MLOps Tools**
+### MLOps Tools
+
+#### Open Source
 - [Kubeflow](#kubeflow)
+- [Metaflow](#metaflow)
+
+
+#### Managed 
+- [Volahoi](https://valohai.com/)
+
+
+**MLOps Tools Comparision**
+- [Kubeflow vs Metaflow](https://valohai.com/blog/kubeflow-vs-metaflow/)
+
+
+Data Quality Tools
 - [Data Drift](#data-drift-tools)
+- 
+
 
 
 
